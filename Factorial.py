@@ -1,5 +1,9 @@
-#CBTIS89
-#BARRERAS LEON RICARDO
+# Segundo-Repositorio
+#Este es mi segundo Repositorio voy a guardar mis archivos
+#Barreras Leon Ricardo
+#3°B Programacion
+
+
 
 numero = 1
 Factores = ''
